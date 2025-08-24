@@ -1,4 +1,4 @@
-https://varsha-mk123.github.io/portfolio/
+https://varsha-mk123.github.io/varsha_portfolio/
 # 🌐 Varsha's Portfolio
 
 A personal portfolio website showcasing projects, achievements, experience and skills. Built with **HTML, CSS, and JavaScript**.
@@ -6,7 +6,7 @@ A personal portfolio website showcasing projects, achievements, experience and s
 ---
 
 ## 🚀 Live Demo
-[![Live Demo](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://varsha-mk123.github.io/portfolio/)
+[![Live Demo](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://varsha-mk123.github.io/varsha_portfolio/)
 
 ---
 
@@ -44,7 +44,7 @@ This project is licensed under the [MIT License](LICENSE) - you are free to use,
 ## 📂 How to Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/varsha-mk123/portfolio.git
+git clone https://github.com/varsha-mk123/varsha_portfolio.git
 
 # Navigate to project directory
 cd Varsha_Portfolio
