@@ -44,7 +44,7 @@ This project is licensed under the [MIT License](LICENSE) - you are free to use,
 ## 📂 How to Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/varsha-mk123/Varsha_Portfolio.git
+git clone https://github.com/varsha-mk123/portfolio.git
 
 # Navigate to project directory
 cd Varsha_Portfolio
